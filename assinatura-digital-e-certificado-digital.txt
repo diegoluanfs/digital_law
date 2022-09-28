@@ -1,0 +1,21 @@
+Assinatura digital
+
+A assinatura digital é obtida por meio de uma agência de segurança on-line ou autoridade de registro. Por meio dela é possível:
+
+•    Verificar a identidade da pessoa que está enviando um documento
+•    Proteger os direitos do destinatário do documento negando o não repúdio, entre outros.
+Com ela, você confere:
+
+Autenticidade: verifica se o conteúdo do documento ao qual está anexado não é violado pelo destinatário.
+
+Integridade: verifica se o remetente e o destinatário recebem o mesmo documento contendo os mesmos dados com integridade.
+
+Não repúdio: impede o assinante de negar ou não repudiar a assinatura do documento posteriormente.
+
+Certificado digital
+
+•    Estabelece a legitimidade ou propriedade da identidade em meio eletrônico.
+•    Garante que o fluxo de dados entre o remetente e o destinatário seja inviolável.
+•    Garante maior segurança para empresas que trabalham com vendas online.
+•    Permite que o destinatário pode verifique a legitimidade das informações pesquisando a propriedade do remetente.
+•    É muito difícil adulterar ou duplicar os certificados digitais.
